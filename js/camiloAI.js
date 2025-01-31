@@ -942,7 +942,7 @@ professions: ['Ilustrador', 'Impressor', 'Instrutor', 'Investigador', 'Inventor'
         'Urânio', 'Ustênio', 'Uricato', 'Urotropina', 'Ultrafiltrado', 'Urânio enriquecido', 'Urolitíase', 'Urânio empobrecido', 'Uréia sintética', 'Urobilina'
     ],
 
-    "professions": [
+    professions: [
         'Urologista', 'Urbanista', 'Universitário', 'Ufólogo', 'Ultrassonografista', 'Unhas designer', 'Utilitário', 'Uti Intensivista', 'Ultrassonografista veterinário', 'Urdidor'
     ],
 
