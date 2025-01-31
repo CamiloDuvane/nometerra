@@ -95,6 +95,7 @@ export class CamiloAI {
       fruits: ['Cabeludinha', 'Cacau', 'Cabeludo', 'Cabeludinha', 'Cabeludo-de-metro', 'Cabeludinho', 'Cabeludo', 'Carambola', 'Cavalo-marinho', 'Cabeludinha', 'Cabeludo-de-metro', 'Cabeludo-de-folha', 'Cabeludo de orelha', 'Cabeludo de estrela']
 
       },
+      
       'D': {
        names: ['Daniel', 'Diana', 'David', 'Débora', 'Dário', 'Douglas', 'Danilo', 'Dalila', 'Diego', 'Dulce', 'Dimitri', 'Durval', 'Daniele', 'Davidson', 'Denise', 'Domingos', 'Danusa', 'Djalma', 'Dalton', 'Dante', 'Diana Carolina', 'Denis', 'Dalton', 'Dário Lucas', 'Délia', 'Deborah', 'Davi', 'Diana Ribeiro', 'Daniele Cristina', 'Douglas Henrique', 'Danyelle'],
       places: ['Dondo', 'Dili', 'Durban', 'Dubai', 'Dakar', 'Deserto de Atacama', 'Dourados', 'Divinópolis', 'Dallas', 'Dar es Salaam', 'Dourados', 'Dachau', 'Dili', 'Durban', 'Diadema', 'Deserto do Saara', 'Dajabón', 'Dezembro', 'Dresden', 'Distrito Federal', 'Dracena', 'Democratic Republic of Congo', 'Dourados', 'Divina Pastora', 'Divo', 'Dahomey', 'Dimbokro', 'Daza'],
@@ -211,7 +212,7 @@ professions: ['Ilustrador', 'Impressor', 'Instrutor', 'Investigador', 'Inventor'
   countries: ['Jamaica', 'Japão', 'Jordânia'],
     animals: ['Jacaré', 'Javali', 'Jabuti', 'Jaguar', 'Jiboia', 'João-de-barro', 'Jaçanã', 'Jacu', 'Jararaca', 'Japu', 'Jundiá', 'Jacurutu', 'Jararacuçu', 'Jandaia', 'Jacu-cigano', 'Juruva', 'Japuaçu', 'Japuíra', 'Jandiá', 'Jacutingá', 'Juriti', 'Jacaré-do-pantanal', 'Jacaré-açu', 'Jiboia-arco-íris', 'Jacuruxi', 'Jacundá', 'Jararacão', 'Juruá', 'Juruviara', 'Jararacussu'],
     objects: ['Jaqueta', 'Jarro', 'Janela', 'Joystick', 'Jaleco', 'Joia', 'Jornal', 'Jóquei', 'Juta', 'Jarra', 'Jogo de xadrez', 'Jogo de cartas', 'Jaleco branco', 'Jarra térmica', 'Jarra de vidro', 'Jaula', 'Jaleco cirúrgico', 'Jóquei clube', 'Jóia rara', 'Jarro de porcelana', 'Joelho ortopédico', 'Joystick analógico', 'Jogo de tabuleiro', 'Jogo de copos', 'Jogo de chaves', 'Jarra de suco', 'Jogo de varetas', 'Jogo de cama', 'Jogo de panelas', 'Jaqueta de couro'],
-    colors": [
+     colors: [
         'Jade', 'Jambo', 'Jaspe', 'Jambo escuro', 'Jambo claro', 'Jasmim', 'Jaspe verde', 'Jaspe azul', 'Jaspe amarelo', 'Jabuticaba',
         'Jade brilhante', 'Jade opaco', 'Jade pastel', 'Jade profundo', 'Jade claro', 'Jaspe fosco', 'Jaspe intenso', 'Jaspe perolado', 'Jaspe flamejante', 'Jaspe avermelhado',
         'Jabuti metálico', 'Jabuti matte', 'Jade fluorescente', 'Jade escuro', 'Jade petróleo', 'Jade vibrante', 'Jaspe nebuloso', 'Jade acinzentado', 'Jade neon', 'Jaspe tropical'
@@ -1006,11 +1007,11 @@ professions: ['Ilustrador', 'Impressor', 'Instrutor', 'Investigador', 'Inventor'
         'Vingadores', 'Velozes e Furiosos', 'V de Vingança', 'Vikings', 'Violetta', 'Veronica Mars', 'Velho Chico', 'Verdade ou Desafio', 'Vidas Secas', 'Valente'
     ],
 
-    "brands": [
+    brands: [
         'Volkswagen', 'Visa', 'Vivo', 'Valentino', 'Vans', 'Victoria’s Secret', 'Vichy', 'Vodafone', 'Varta', 'Volvo'
     ],
 
-    "plants": [
+    plants: [
         'Vanila', 'Violeta', 'Veludo-branco', 'Vitória-régia', 'Verônica', 'Vassourinha-de-botão', 'Verdolaga', 'Vesicária', 'Vinha', 'Visco'
     ],
 
@@ -1096,7 +1097,7 @@ professions: ['Ilustrador', 'Impressor', 'Instrutor', 'Investigador', 'Inventor'
         'Xenônio', 'Xantato', 'Xilema', 'Xisto betuminoso'
     ],
 
-    "professions": [
+    professions: [
         'Xilógrafo', 'Xamã', 'Xenobiologista', 'Xerife', 'Xenólogo', 'Xadrezista', 'Xilógrafo artístico', 'Xilofonista', 'Xenotécnico', 'Xarqueador'
     ],
 
