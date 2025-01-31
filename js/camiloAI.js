@@ -93,7 +93,6 @@ export class CamiloAI {
     emotions: ['Coragem', 'Curiosidade', 'Cansaço', 'Culpa', 'Confiança', 'Certeza', 'Carinho', 'Cuidado', 'Coração partido', 'Choro', 'Compaixão', 'Confusão', 'Comprometimento', 'Calma', 'Coração alegre', 'Compadecimento', 'Cuidado', 'Censura', 'Cautela', 'Confusão mental', 'Certeza emocional', 'Confissão', 'Culpa', 'Calar', 'Compromisso', 'Cansado de viver', 'Culpa emocional', 'Chorando por dentro', 'Coração com saudade'],
   continents: ['África', 'Ásia', 'América', 'Antártida', 'Austrália', 'Ártico', 'Canadá', 'América do Norte', 'América Latina', 'Antilhas', 'Caribe', 'América Central', 'Região Sul', 'Subcontinente Indiano', 'Asia Central', 'Sul da Ásia', 'Península Arábica', 'Oceania', 'Céus Árticos', 'Mesoamérica', 'Região Báltica', 'Ilhas do Pacífico', 'Indochina', 'Península Ibérica', 'Ásia Menor', 'Península Coreana', 'Península Malaia', 'Subcontinente Árabe', 'Cabo Verde'],
       fruits: ['Cabeludinha', 'Cacau', 'Cabeludo', 'Cabeludinha', 'Cabeludo-de-metro', 'Cabeludinho', 'Cabeludo', 'Carambola', 'Cavalo-marinho', 'Cabeludinha', 'Cabeludo-de-metro', 'Cabeludo-de-folha', 'Cabeludo de orelha', 'Cabeludo de estrela']
-
       },
       
       'D': {
