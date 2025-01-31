@@ -77,7 +77,7 @@ export class CamiloAI {
       },
       
       'C': {
-       names: ['Carlos', 'Catarina', 'Cláudio', 'Camila', 'Cristiano', 'Cássia', 'Célia', 'Célio', 'Catarina', 'Carlos Eduardo', 'César', 'Cláudia', 'Cristiane', 'Célio André', 'Carla', 'Carmo', 'Carmen', 'Cauã', 'Camilo', 'Clarice', 'Cristovão', 'Cássio', 'Clara', 'Catarina', 'Carlos Alberto', 'Carolina', 'Cecília', 'Cleusa', 'César Augusto', 'Cleyton', 'Cátia'],
+       names: ['Carlos', 'Catarina', 'Cláudio', 'Camilo', 'Cristiano', 'Cássia', 'Célia', 'Célio', 'Catarina', 'Carlos Eduardo', 'César', 'Cláudia', 'Cristiane', 'Célio André', 'Carla', 'Carmo', 'Carmen', 'Cauã', 'Camilo', 'Clarice', 'Cristovão', 'Cássio', 'Clara', 'Catarina', 'Carlos Alberto', 'Carolina', 'Cecília', 'Cleusa', 'César Augusto', 'Cleyton', 'Cátia'],
       places: ['Cabo Delgado', 'Cazenga', 'Cuito', 'Cabo Frio', 'Carapira', 'Castelo de Vide', 'Cabo Verde', 'Camarões', 'Caldas da Rainha', 'Caldas Novas', 'Cascais', 'Campo Grande', 'Ceará', 'Cabo Polônio', 'Cabo Frio', 'Caxito', 'Canela', 'Cacimba de Dentro', 'Campos do Jordão', 'Curitiba', 'Cascavel', 'Conceição do Coité', 'Colombo', 'Cachoeira', 'Campo Mourão', 'Cuiabá', 'Cabo da Boa Esperança', 'Caconde', 'Cacoal', 'Cachoeiro de Itapemirim'],
    countries: ['Cabo Verde', 'Camarões', 'Colômbia', 'Canadá', 'Chile', 'China', 'Cingapura', 'Catar', 'Congo', 'Cazaquistão', 'Croácia', 'Czech Republic', 'Cuba', 'Costa Rica', 'Catar', 'Cabo Verde', 'Cingapura', 'Camarões', 'Czechia', 'Cozumel', 'Cabo Frio', 'Cingapura', 'Chipre', 'Catar', 'Congo-Brazzaville', 'Cazaquistão', 'Camboja', 'Cingapura'],
      animals: ['Cavalo', 'Cachorro', 'Canguru', 'Cervo', 'Cobra', 'Cacatua', 'Camarão', 'Codorna', 'Corvo', 'Cervo', 'Cachalote', 'Cacau', 'Caiçara', 'Cachorrinho', 'Cacique', 'Cavalo-marinho', 'Codorna', 'Corvo', 'Cacatua', 'Cobra Coral', 'Cachorrinho', 'Cavalinho-marinho', 'Cachorro-quente', 'Corvo', 'Cervo-de-patas-brancas', 'Cacatua', 'Cachorrão', 'Cacau', 'Cervos-de-cauda-branca'],
@@ -105,7 +105,7 @@ export class CamiloAI {
     elements: ['Dióxido de carbono', 'Dinitrogênio', 'Duro', 'Diamante', 'Dissulfeto', 'Dodecano', 'Dodecil', 'Dióxido de enxofre', 'Dólar', 'Dibrometo', 'Dióxido de cloro', 'Desoxirribonucleico', 'Durum', 'Dióxido de manganês', 'Dopamina', 'Dihidrogênio', 'Dodecil', 'Dopamina', 'Dissulfeto', 'Dodecano', 'Dimetil', 'Diforma', 'Desoxirribonucleico', 'Dihidrogênio', 'Diatomáceas', 'Diluído', 'Dodecano', 'Dodecil', 'Dólar'],
  professions: ['Dentista', 'Designer', 'Dançarino', 'Desenhista', 'Deputado', 'Desenvolvedor', 'Diretor', 'Delegado', 'Doutor', 'Diácono', 'Digitador', 'Designer gráfico', 'Dublador', 'Diretor de arte', 'Documentarista', 'Diretor de vendas', 'Distribuidor', 'Desenvolvedor de software', 'Doutor em ciência', 'Doutor em educação', 'Docente', 'Desenhista industrial', 'Diretor de marketing', 'Docente universitário', 'Desenhista técnico', 'Dublador', 'Desenhista 3D', 'Designer de interiores'],
        media: ['Dungeons & Dragons', 'Dawson’s Creek', 'Doctor Who', 'Dexter', 'Diário de um Banana', 'Detective Conan', 'Dá-lhe o Queijo', 'Deus Salve o Rei', 'Dumb and Dumber', 'Derrick', 'Dire Straits', 'Dr. House', 'Days of Our Lives', 'Descendants', 'Diário de Noé', 'Drácula', 'Distrito 13', 'Documentário de viagem', 'Domínio Público', 'Dois Homens e Meio', 'De Volta Para o Futuro', 'Demolidor', 'Doutor Jivago', 'Deus É Brasileiro', 'Deus nos Acuda', 'Derrick', 'Drake', 'Dungeons & Dragons', 'Dr. Phil'],
-      brands: ['Dior', 'Dell', 'Disney', 'Dove', 'Durex', 'Dr. Martens', 'DHL', 'Duracell', 'Dolce & Gabbana', 'Dyson', 'DHL Express', 'Dannon', 'Duracell', 'Disneyland', 'Diesel', 'Ducati', 'Domino\'s', 'Desigual', 'Dyson', 'Datsun', 'Dunkin', 'Desperados', 'Del Monte', 'Ducati', 'DeWalt', 'Dove Men', 'Deezer', 'Doris'],
+      brands: ['Dior', 'Dell', 'Disney', 'Dove', 'Durex', 'Dr. Martens', 'DHL', 'Duracell', 'Dolce & Gabbana', 'Dyson', 'DHL Express', 'Dannon', 'Duracell', 'Disneyland', 'Diesel', 'Ducati', 'Dominos', 'Desigual', 'Dyson', 'Datsun', 'Dunkin', 'Desperados', 'Del Monte', 'Ducati', 'DeWalt', 'Dove Men', 'Deezer', 'Doris'],
       plants: ['Dente-de-leão', 'Dália', 'Dente-de-leão', 'Drosófila', 'Dendrobium', 'Dracena', 'Dymondia', 'Daphne', 'Dombeya', 'Dedaleira', 'Dália', 'Dente-de-leão', 'Desmancha-pente', 'Dendrobium', 'Damiana', 'Dymondia', 'Daphne', 'Delfínio', 'Datura', 'Dendrobium', 'Dombeya', 'Damiana', 'Dymondia', 'Dália', 'Dracaena', 'Daphne', 'Dymondia'],
        verbs: ['Dançar', 'Dormir', 'Dirigir', 'Descer', 'Dizer', 'Desenhar', 'Dar', 'Desafiar', 'Desistir', 'Dividir', 'Descansar', 'Decidir', 'Descer', 'Dominar', 'Desconhecer', 'Declarar', 'Desaparecer', 'Destruir', 'Desviar', 'Defender', 'Despir', 'Desprezar', 'Dedicar', 'Desinformar', 'Despertar', 'Deter', 'Desdobrar', 'Desenvolver'],
   adjectives: ['Dificílimo', 'Doce', 'Divertido', 'Dúbio', 'Delicado', 'Destruidor', 'Dedicado', 'Dócil', 'Durável', 'Divino', 'Desolado', 'Delicioso', 'Difícil', 'Denso', 'Dramático', 'Distante', 'Desejado', 'Decente', 'Discreto', 'Dizível', 'Duro', 'Dúctil', 'Digno', 'Decisivo', 'Dedicatório', 'Dinâmico', 'Direto', 'Distorcido'],
@@ -765,150 +765,451 @@ professions: ['Ilustrador', 'Impressor', 'Instrutor', 'Investigador', 'Inventor'
       },
             
       'S': {
-names: ['Sofia', 'Samuel', 'Sérgio', 'Sara', 'Silvia', 'Sandro', 'Sabrina', 'Sidney', 'Salvador', 'Simone'],
-places: ['São Paulo', 'Salvador', 'Santiago', 'Sydney', 'São Petersburgo', 'Seattle', 'São Francisco', 'Suzano'],
-countries: ['Suécia', 'Suiça', 'Senegal', 'Sérvia', 'Somália', 'Sudão', 'Suriname'],
-animals: ['Siri', 'Sapo', 'Salmão', 'Suricata', 'Serpente', 'Sparrow', 'Saguim'],
-objects: ['Sofa', 'Sinaleira', 'Saco', 'Sombrero', 'Selim', 'Seda', 'Smartphone'],
-colors: ['Salmon', 'Sépia', 'Cinza', 'Sapphire'],
-elements: ['Sódio', 'Silício', 'Sênio', 'Sulfato'],
-professions: ['Servente', 'Serralheiro', 'Secretária', 'Soldado', 'Sommelier', 'Surdo', 'Supervisor'],
-media: ['Star Wars', 'Sombra e Ossos', 'Sherlock', 'Supernatural'],
-brands: ['Samsung', 'Sony', 'Shell', 'Sears'],
-plants: ['Salsa', 'Semente', 'Sáuz', 'Sazão'],
-verbs: ['Sorrir', 'Saber', 'Sair', 'Sentir', 'Sentar', 'Seguir', 'Socar'],
-adjectives: ['Simples', 'Sincero', 'Sensível', 'Sábio', 'Sano', 'Solidário'],
-emotions: ['Solidão', 'Saudade', 'Satisfação', 'Surpresa'],
-continents: ['África', 'Ásia'],
-fruits: ['Sabará', 'Soursop', 'Satsuma']
+       names: ['Sérgio', 'Sandra', 'Silvia', 'Samuel', 'Sofia', 'Sebastião', 'Simone', 'Saulo', 'Selma', 'Salvador',
+        'Sabrina', 'Sandro', 'Sueli', 'Sidney', 'Soraia', 'Soraya', 'Sara', 'Solange', 'Saul', 'Suelen',
+        'Santiago', 'Sávio', 'Sibelle', 'Stefano', 'Selena', 'Silvano', 'Samar', 'Sérgia', 'Severino', 'Samira'
+    ],
+
+    places: [
+        'Sofala', 'Songo', 'Salamanga', 'San José', 'Seul', 'Santiago', 'Sydney', 'Singapura', 'Serra Leoa', 'Sibéria',
+        'Sevilha', 'Salvador', 'San Francisco', 'São Paulo', 'San Marino', 'Saragoça', 'Sucre', 'Stockholm', 'Stuttgart', 'Surate',
+        'San Diego', 'San Juan', 'Shangai', 'Surabaya', 'Sumatra', 'Santiago de Cuba', 'Salerno', 'Samarcanda', 'San Antonio', 'Sibiu'
+    ],
+
+    countries: [
+        'São Tomé e Príncipe', 'Suíça', 'Suécia', 'Síria', 'Sudão', 'Serra Leoa', 'Suriname', 'Senegal', 'Singapura', 'Somália'
+    ],
+
+    animals: [
+        'Sapo', 'Salmão', 'Serpente', 'Sabiá', 'Suricata', 'Sardinha', 'Saci', 'Salamandra', 'Siri', 'Sanguessuga',
+        'Saíra', 'Socó', 'Solha', 'Sagui', 'Sussuarana', 'Sturnus', 'Surubi', 'Saracura', 'Sargo', 'Sanhaço',
+        'Sova', 'Seiche', 'Sável', 'Sardão', 'Sacarrabos', 'Salmo', 'Sapajus', 'Sturnidae', 'Sargo-comum', 'Sapo-cururu'
+    ],
+
+    objects: [
+        'Sapato', 'Sabonete', 'Seringa', 'Saco', 'Selo', 'Sabão', 'Saxofone', 'Sanfona', 'Serra', 'Suporte',
+        'Sutiã', 'Sabre', 'Saladeira', 'Sanfona', 'Serrote', 'Secador', 'Selo postal', 'Sonda', 'Salto', 'Sacola',
+        'Scanner', 'Sacristia', 'Sax', 'Saco de dormir', 'Selim', 'Suéter', 'Sorveteira', 'Saca-rolhas', 'Silenciador', 'Semáforo'
+    ],
+
+    colors: [
+        'Salmão', 'Safira', 'Seiva', 'Sépia', 'Solar', 'Sorvete', 'Siena', 'Silvestre', 'Safron', 'Sombra',
+        'Sublime', 'Supernova', 'Sereno', 'Sustentável', 'Seda', 'Sereno Cinza', 'Sombra Azul', 'Sombra Rosa', 'Sombra Verde', 'Sândalo',
+        'Sussurro', 'Sopro', 'Sombra Marrom', 'Sopro de Vento', 'Seda Azul', 'Sombra Pêssego', 'Sombra Vermelho', 'Solar Laranja', 'Suave Roxo', 'Sépia Claro'
+    ],
+
+    elements: [
+        'Silício', 'Samário', 'Selênio', 'Sódio', 'Sulfato', 'Sulfur', 'Salitre', 'Sais minerais', 'Siderita', 'Silicato',
+        'Soda cáustica', 'Solvente', 'Sódio metálico', 'Sulfonato', 'Sílica', 'Sulfeto', 'Substância pura', 'Soluto', 'Solvente orgânico', 'Sódio cloro',
+        'Substância química', 'Sulfoácidos', 'Sais solúveis', 'Silício amorfo', 'Substância composta', 'Sais orgânicos', 'Soda líquida', 'Substância alcalina', 'Sílica coloidal', 'Sais de banho'
+    ],
+
+    professions: [
+        'Soldador', 'Sapateiro', 'Sociólogo', 'Segurança', 'Secretário', 'Sommelier', 'Silvicultor', 'Serralheiro', 'Supervisor', 'Sanitarista',
+        'Síndico', 'Sapateiro artesanal', 'Sommelier de café', 'Serigrafista', 'Subchefe de cozinha', 'Socorrista', 'Sushiman', 'Supervisor de vendas', 'Seringueiro', 'Sanitarista ambiental',
+        'Supervisor de logística', 'Secretário executivo', 'Sistemologista', 'Silvicultor florestal', 'Supervisor de qualidade', 'Socorrista resgatista', 'Subgerente', 'Supervisor de produção', 'Sociólogo criminal', 'Sondador'
+    ],
+
+    media: [
+        'Superman', 'Sherlock Holmes', 'Star Wars', 'Spider-Man', 'SpongeBob SquarePants', 'Shrek', 'Stranger Things', 'Smallville', 'Supernatural', 'Suicide Squad',
+        'Scarface', 'Step Up', 'Silent Hill', 'Shameless', 'Saving Private Ryan', 'Seven', 'Saw', 'Sin City', 'Sonic', 'Sing',
+        'Sense8', 'Super Mario Bros', 'Séries Infantis', 'Scooby-Doo', 'South Park', 'Soul', 'Speed Racer', 'Spy Kids', 'Sailor Moon', 'Supergirl'
+    ],
+
+    brands: [
+        'Samsung', 'Sony', 'Starbucks', 'Suzuki', 'Santander', 'Sadia', 'Siemens', 'Subway', 'Swatch', 'Skechers',
+        'Symantec', 'Shell', 'Spotify', 'Semp', 'Seara', 'Sachs', 'Schneider', 'Snapchat', 'Santander Totta', 'SanDisk',
+        'Smirnoff', 'Segafredo', 'Shiseido', 'Sperry', 'Seagate', 'Salomon', 'Skeeter', 'Submarino', 'Scania', 'Stanley'
+    ],
+
+    plants: [
+        'Salsa', 'Sálvia', 'Sabugueiro', 'Samambaia', 'Seringueira', 'Sucuuba', 'Sumaúma', 'Sibipiruna', 'Sete-feras', 'Sucupira',
+        'Sapezal', 'Sapucaia', 'Sebo vegetal', 'Silene', 'Sequoia', 'Sanção do campo', 'Salsaparrilha', 'Sesbania', 'Sete-sangrias', 'Suculenta',
+        'Salsinha', 'Sapatinho', 'Sete-ervas', 'Saracura', 'Sabiá', 'Sombreiro', 'Salgueiro', 'Sândalo', 'Sapucaia do cerrado', 'Sinfônio'
+    ],
+
+    fruits: [
+        'Sapoti', 'Sicana', 'Seriguela', 'Santal', 'Spondias', 'Sorb', 'Sumaúma', 'Spondias dulcis', 'Spondias mombin', 'Spondias purpurea',
+        'Sapotácea', 'Sicana odorífera', 'Sicana sphaerica', 'Santol', 'Sereguela', 'Sargo', 'Sapucaia', 'Sambucus', 'Sorbifolia', 'Sicana edulis',
+        'Sorbifolium', 'Santalaceae', 'Sapindus', 'Sideroxylon', 'Sicana phasianus', 'Syzygium', 'Syzygium malaccense', 'Syzygium jambos', 'Sapota', 'Sapucaia-brava'
+    ]
       },
+            
       'T': {
-names: ['Tiago', 'Tatiane', 'Tânia', 'Thiago', 'Tomás', 'Tereza', 'Talita', 'Teresa', 'Tristão', 'Tadeu'],
-places: ['Tóquio', 'Toronto', 'Teresina', 'Tucuruí', 'Tampico', 'Teerã', 'Tubarão'],
-countries: ['Turquia', 'Tailândia', 'Tanzânia', 'Trinidad e Tobago', 'Timor-Leste'],
-animals: ['Tigre', 'Tartaruga', 'Tamanduá', 'Tentilhão', 'Tucano', 'Tapir', 'Tetra', 'Tilápia'],
-objects: ['Tabuleiro', 'Tábua', 'Telefone', 'Toalha', 'Tesoura', 'Tinta', 'Travesseiro', 'Trocador'],
-colors: ['Turquesa', 'Tangerina', 'Tabaco'],
-elements: ['Tálio', 'Titânio', 'Telúrio'],
-professions: ['Técnico', 'Trabalhador', 'Tradutor', 'Taxista', 'Torneiro', 'Teólogo', 'Teatro'],
-media: ['The Simpsons', 'The Office', 'Titanic', 'Thor'],
-brands: ['Toyota', 'Tetra Pak', 'Timberland', 'Toshiba'],
-plants: ['Tulipa', 'Trevo', 'Tamareira', 'Tília', 'Teixo'],
-verbs: ['Tocar', 'Trabalhar', 'Terminar', 'Trocar', 'Tentar', 'Tragar', 'Tecer'],
-adjectives: ['Tímido', 'Triste', 'Tolerante', 'Trabalhador', 'Teimoso', 'Temperamental'],
-emotions: ['Tristeza', 'Tensão', 'Ternura', 'Temor'],
-continents: ['África', 'Antártida'],
-fruits: ['Tamarindo', 'Tangerina', 'Tomate', 'Tâmara']    
+    names: [
+        'Tiago', 'Tatiana', 'Tânia', 'Tércio', 'Tadeu', 'Telma', 'Tomás', 'Tereza', 'Teodoro', 'Tarcísio',
+        'Tamara', 'Tobias', 'Tamires', 'Tales', 'Tássia', 'Tainá', 'Théo', 'Tâmara', 'Tayná', 'Telmo',
+        'Tarsila', 'Tito', 'Thalita', 'Tainara', 'Tavinho', 'Teodora', 'Tatiane', 'Tulio', 'Thales', 'Tarso'
+    ],
+
+    places: [
+        'Tete', 'Tavene', 'Timbala', 'Tel Aviv', 'Toronto', 'Tóquio', 'Taipei', 'Tbilisi', 'Tashkent', 'Tianjin',
+        'Tallinn', 'Tampa', 'Turim', 'Trípoli', 'Toulouse', 'Teresina', 'Tacuarembó', 'Tacloban', 'Taipé', 'Tanjung',
+        'Tamale', 'Tabora', 'Tauranga', 'Temuco', 'Tijuana', 'Taraz', 'Trondheim', 'Tampere', 'Tours', 'Toulon'
+    ],
+
+    countries: [
+        'Tailândia', 'Tanzânia', 'Tajiquistão', 'Turcomenistão', 'Turquia', 'Trinidad e Tobago', 'Tonga', 'Togo', 'Tunísia', 'Timor-Leste'
+    ],
+
+    animals: [
+        'Tigre', 'Tamanduá', 'Tatu', 'Tubarão', 'Tucano', 'Tarântula', 'Tilápia', 'Tritão', 'Texugo', 'Tadorna',
+        'Tentilhão', 'Tarpan', 'Tatu-canastra', 'Tamanduá-bandeira', 'Tangará', 'Tatuí', 'Toupeira', 'Tordo', 'Truta', 'Teca',
+        'Tatu-galinha', 'Tatuíra', 'Taruca', 'Tuiuiú', 'Tamarugo', 'Tarambola', 'Tetra', 'Tern', 'Tigre-da-tasmânia', 'Tubarão-martelo'
+    ],
+
+    objects: [
+        'Tapete', 'Tesoura', 'Televisão', 'Tambor', 'Telefone', 'Torradeira', 'Tabuleiro', 'Tubo', 'Troféu', 'Tijolo',
+        'Tampa', 'Talheres', 'Travesseiro', 'Teclado', 'Termômetro', 'Torno', 'Tanque', 'Telhado', 'Torre', 'Toca-discos',
+        'Tirante', 'Tripé', 'Tubo de ensaio', 'Tomada', 'Tamborete', 'Tesoura de poda', 'Teia', 'Tábua', 'Trinco', 'Torneira'
+    ],
+
+    colors: [
+        'Turquesa', 'Tangerina', 'Terracota', 'Tijolo', 'Tóquio', 'Toupeira', 'Trombeta', 'Tulipa', 'Tabaco', 'Toranja',
+        'Tamarindo', 'Trigo', 'Teal', 'Topázio', 'Tonalidade Terra', 'Tonalidade Vinho', 'Tundra', 'Toffee', 'Tons de Areia', 'Titânio',
+        'Tangerina Claro', 'Tiziu', 'Tomate', 'Turmalina', 'Tucano', 'Tâmara', 'Tronco', 'Tremor', 'Trinco de Aço', 'Tectônico'
+    ],
+
+    elements: [
+        'Tântalo', 'Telúrio', 'Tório', 'Titânio', 'Tungstênio', 'Trítio', 'Terras raras', 'Tálio', 'Tricarbonato', 'Tanato',
+        'Tetraóxido', 'Termita', 'Tiossulfato', 'Tosilato', 'Tetrafluoreto', 'Trifluoreto', 'Tetracloreto', 'Trioxidato', 'Tetraborato', 'Tartárico',
+        'Tetróxido de ósmio', 'Telurato', 'Trifosfato', 'Terbium', 'Tetrahidrofurano', 'Tungstato', 'Tetra-hidróxido', 'Tiossemicarbazida', 'Tetraflorometano', 'Trióxido de enxofre'
+    ],
+
+    professions: [
+        'Técnico', 'Taxista', 'Topógrafo', 'Tradutor', 'Terapeuta', 'Torneiro mecânico', 'Técnico de enfermagem', 'Turismólogo', 'Tesoureiro', 'Tintureiro',
+        'Tatuador', 'Técnico em informática', 'Técnico em segurança', 'Técnico em radiologia', 'Técnico agrícola', 'Técnico ambiental', 'Técnico eletrônico', 'Técnico em contabilidade', 'Treinador', 'Torrefador',
+        'Técnico em edificações', 'Técnico de som', 'Técnico de laboratório', 'Técnico em telecomunicações', 'Técnico em logística', 'Técnico florestal', 'Técnico metalúrgico', 'Técnico químico', 'Técnico em mecatrônica', 'Técnico automotivo'
+    ],
+
+    media: [
+        'Titanic', 'The Simpsons', 'Toy Story', 'Transformers', 'Tomb Raider', 'The Mandalorian', 'The Witcher', 'The Office', 'The Crown', 'The Boys',
+        'Top Gun', 'The Last of Us', 'The Batman', 'The Lion King', 'Terminator', 'The Matrix', 'The Flash', 'Teen Titans', 'Thor', 'Twilight',
+        'The Walking Dead', 'Tangled', 'The Dark Knight', 'True Detective', 'The Punisher', 'Trolls', 'Tom & Jerry', 'The Big Bang Theory', 'The Good Doctor', 'The Revenant'
+    ],
+
+    brands: [
+        'Toyota', 'Tesla', 'Toshiba', 'Timberland', 'TikTok', 'Tommy Hilfiger', 'Tupperware', 'Targus', 'Tefal', 'Tissot',
+        'Twitch', 'Twinings', 'Texaco', 'Triumph', 'Turkish Airlines', 'Technics', 'Tropicana', 'Thule', 'Trivago', 'Tetra Pak',
+        'Tiffany & Co.', 'Tom Ford', 'Trident', 'Tonka', 'Tiger', 'Tayto', 'Trek', 'Tap Portugal', 'Toni&Guy', 'Toscana'
+    ],
+
+    plants: [
+        'Tulipa', 'Tomilho', 'Tabaco', 'Tamarindo', 'Trevo', 'Tarumã', 'Teixo', 'Timbaúba', 'Trapoeraba', 'Teca',
+        'Tansagem', 'Tungue', 'Tília', 'Tiririca', 'Tropaeolum', 'Tanchagem', 'Tectona', 'Timbó', 'Tamarix', 'Tamus',
+        'Tremoço', 'Tabebuia', 'Tacca', 'Taboca', 'Tassel', 'Tanchagem do cerrado', 'Tamareira', 'Tiliaceae', 'Trithrinax', 'Tropaeolaceae'
+    ],
+
+    fruits: [
+        'Tangerina', 'Tamarindo', 'Tomate', 'Tâmara', 'Tucumã', 'Tropicana', 'Tungue', 'Tarumã', 'Tayberry', 'Timbó',
+        'Trepadeira', 'Taperebá', 'Tingui', 'Tanjal', 'Tocuma', 'Trigo-fruta', 'Taiúva', 'Tomatillo', 'Tuta', 'Tucumã-do-amazonas',
+        'Tuna', 'Timbó-doce', 'Teca-fruto', 'Tamareira-francesa', 'Tomatão', 'Turi', 'Tanzânia', 'Tabebuias', 'Tingui-rendado', 'Tuna-vermelha'
+    ]
       },
+      
       'U': {
-names: ['Ulisses', 'Ursula', 'Ubirajara', 'Uéliton', 'Ulysses', 'Uda', 'Uraia', 'União'],
-places: ['Ubatuba', 'Uberlândia', 'Uruçuca', 'Ushuaia', 'Umuarama', 'Utinga'],
-countries: ['Uruguai', 'Uzbequistão', 'Uganda'],
-animals: ['Urso', 'Uvaia', 'Unicornio'],
-objects: ['Uniforme', 'Umbrella', 'Urna', 'Uréia'],
-colors: ['Uva', 'Uniforme', 'Ultramarino'],
-elements: ['Urânio', 'Uranito'],
-professions: ['Uber', 'Urologista', 'Universitário'],
-media: ['Underworld', 'Uptown Funk'],
-brands: ['Under Armour', 'Uber', 'Unilever'],
-plants: ['Umbuzeiro', 'Urtiga'],
-verbs: ['Upar', 'Usar', 'Uivar'],
-adjectives: ['Único', 'Urbano', 'Urgente'],
-emotions: ['Unidade'],
-continents: ['Antártida'],
-fruits: ['Uva', 'Umbu']
+    names: [
+        'Ulisses', 'Ubirajara', 'Ubaldo', 'Ursula', 'Uriel', 'Umberto', 'Ugo', 'Uvaldo', 'Udo', 'Ulan',
+        'Urbano', 'Uanderson', 'Ubiraci', 'Udson', 'Uéliton', 'Ulano', 'Uarlei', 'Uéslei', 'Uiratan', 'Ulisses Filho'
+    ],
+
+    places: [
+        'Utrecht', 'Uberaba', 'Uberlândia', 'Ulan Bator', 'Ushuaia', 'Utah', 'Umeå', 'Uppsala', 'Uyo', 'Udon Thani',
+        'Ulm', 'Ubatuba', 'Unai', 'Umuarama', 'Ushiku', 'Uruaçu', 'Uruçuca', 'Uruguaiana', 'Uvira', 'Ube'
+    ],
+
+    countries: [
+        'Uganda', 'Uruguai', 'Uzbequistão', 'Ucrânia', 'Emirados Árabes Unidos'
+    ],
+
+    animals: [
+        'Urso', 'Uirapuru', 'Urutau', 'Urubu', 'Uacari', 'Unau', 'Uiraponga', 'Urina', 'Urutu', 'Uruçu',
+        'Uíra', 'Uxi', 'Urina-branca', 'Urina-vermelha', 'Uru', 'Uru do Nordeste', 'Urina-preta', 'Urso-pardo', 'Urso-polar', 'Urutu-cruzeiro'
+    ],
+
+    objects: [
+        'Ursinho de pelúcia', 'Umbrela', 'Uniforme', 'Ultrassom', 'Urinol', 'Utensílio', 'Urna', 'Uvas-passa', 'Uísque', 'Unha postiça',
+        'Umidificador', 'Unha', 'Usina', 'Ultraleve', 'Ureia', 'Ultracongelador', 'Urdideira', 'Utensílio de cozinha', 'Urna eletrônica', 'Unha artificial'
+    ],
+
+    colors: [
+        'Uva', 'Ultramarino', 'Umbra', 'Urze', 'Urtiga', 'Uva-púrpura', 'Ultra-violeta', 'Ultramarine blue', 'Uva-verde', 'Urucum',
+        'Ultramarino Claro', 'Uva-escura', 'Uva-dourada', 'Umbra natural', 'Ultravioleta escuro'
+    ],
+
+    elements: [
+        'Urânio', 'Ustênio', 'Uricato', 'Urotropina', 'Ultrafiltrado', 'Urânio enriquecido', 'Urolitíase', 'Urânio empobrecido', 'Uréia sintética', 'Urobilina'
+    ],
+
+    "professions": [
+        'Urologista', 'Urbanista', 'Universitário', 'Ufólogo', 'Ultrassonografista', 'Unhas designer', 'Utilitário', 'Uti Intensivista', 'Ultrassonografista veterinário', 'Urdidor'
+    ],
+
+    media: [
+        'Up - Altas Aventuras', 'Uncharted', 'Ultraman', 'Ursinho Pooh', 'Umbrella Academy', 'Uma Noite no Museu', 'Undertale', 'Uncut Gems', 'Us', 'Unicorn Wars',
+        'Ugly Betty', 'Unbreakable', 'Uncharted: O Filme', 'Usagi Drop', 'Utopia', 'Universal Soldier', 'Uzumaki', 'UHF', 'Under the Dome', 'Under the Skin'
+    ],
+
+    brands: [
+        'Uber', 'Ubisoft', 'Unilever', 'Under Armour', 'United Airlines', 'Uniqlo', 'UOL', 'Urban Decay', 'Ultimate Ears', 'Ugg',
+        'US Polo Assn.', 'United Colors of Benetton', 'Universal Studios', 'U-Haul', 'Upfield', 'Unisys', 'Usiminas', 'Ultra', 'Ultragaz', 'Unimed'
+    ],
+
+    plants: [
+        'Uva', 'Urucum', 'Umbuzeiro', 'Unha-de-gato', 'Urtiga', 'Uxi', 'Uva-do-japão', 'Uvaia', 'Uxi-amarelo', 'Uvarana',
+        'Uva-do-monte', 'Uva-branca', 'Ucuuba', 'Urtiga-brava', 'Urucuzeiro'
+    ],
+
+    fruits: [
+        'Uva', 'Umbu', 'Uxi', 'Uvaia', 'Urucum', 'Uva-do-japão', 'Ubaia', 'Uchuva', 'Uva-branca', 'Uva-passa'
+    ]
       },
+  
       'V': {
-names: ['Victor', 'Vanessa', 'Valter', 'Vera', 'Vinícius', 'Viviane', 'Vitor', 'Valentina', 'Vagner', 'Verônica'],
-places: ['Vitória', 'Vancouver', 'Viena', 'Valência', 'Veneza', 'Vila Velha', 'Viedma'],
-countries: ['Vietnã', 'Venezuela', 'Vanuatu', 'Vaticano'],
-animals: ['Vaca', 'Veado', 'Vaga-lume', 'Víbora', 'Vombate', 'Vicuña', 'Vulture'],
-objects: ['Vela', 'Vaso', 'Ventilador', 'Vidro', 'Varinha', 'Violão', 'Vaso sanitário'],
-colors: ['Verde', 'Vermelho', 'Vinho'],
-elements: ['Vanádio', 'Vários', 'Vibrânio'],
-professions: ['Vendedor', 'Vigilante', 'Veterinário', 'Vocalista', 'Voluntário'],
-media: ['Vingadores', 'Vingança', 'Vingadores: Guerra Infinita'],
-brands: ['Volkswagen', 'Vans', 'Vivo', 'Vitamix', 'Vichy'],
-plants: ['Violeta', 'Vassoura', 'Vinca', 'Verônica'],
-verbs: ['Ver', 'Viver', 'Viajar', 'Vender', 'Vencer', 'Vibrar', 'Vigiar'],
-adjectives: ['Valente', 'Velho', 'Veloz', 'Vasto', 'Vulgar'],
-emotions: ['Vingança', 'Vaidade', 'Vergonha', 'Vontade'],
-continents: ['África', 'Ásia'],
-fruits: ['Vagem', 'Vera-melão']
+    names: [
+        'Vicente', 'Valdemar', 'Vagner', 'Vítor', 'Viviane', 'Valéria', 'Vinícius', 'Vanessa', 'Valentim', 'Valquíria',
+        'Virgílio', 'Vanda', 'Valter', 'Violeta', 'Vilma', 'Vidal', 'Valdeci', 'Veridiana', 'Venceslau', 'Vidalina'
+    ],
+
+    places: [
+        'Viena', 'Veneza', 'Valência', 'Varsóvia', 'Vancouver', 'Verona', 'Vitória', 'Vladivostok', 'Várzea Grande', 'Vilhena',
+        'Viseu', 'Valparaíso', 'Volta Redonda', 'Varginha', 'Vilhena', 'Vila Nova de Gaia', 'Viedma', 'Vladikavkaz', 'Villavicencio', 'Vasto'
+    ],
+
+    countries: [
+        'Vaticano', 'Vanuatu', 'Venezuela', 'Vietnã'
+    ],
+
+    animals: [
+        'Vaca', 'Veado', 'Vespa', 'Víbora', 'Verdilhão', 'Vombate', 'Verme', 'Vaga-lume', 'Viralata', 'Vicunha',
+        'Valencianita', 'Vison', 'Vespa asiática', 'Vespa mandarina', 'Vombate-de-nariz-peludo'
+    ],
+
+    objects: [
+        'Vassoura', 'Vela', 'Ventilador', 'Varal', 'Violão', 'Vidro', 'Vuvuzela', 'Vaso', 'Varinha', 'Vestido',
+        'Volante', 'Vela perfumada', 'Violino', 'Videogame', 'Variedade de plantas', 'Visor', 'Ventosa', 'Vinil', 'Vidraria', 'Válvula'
+    ],
+
+    colors: [
+        'Vermelho', 'Verde', 'Violeta', 'Vermelho-escuro', 'Verde-musgo', 'Verde-oliva', 'Vinho', 'Verde-mar', 'Verde-limão', 'Verde-bandeira'
+    ],
+
+    elements: [
+        'Vanádio', 'Vermiculita', 'Vitrificação', 'Vermelho de cádmio', 'Vidro de sílica', 'Vidro temperado', 'Vareta de tungstênio'
+    ],
+
+    professions: [
+        'Veterinário', 'Vendedor', 'Vidraceiro', 'Vigilante', 'Violonista', 'Viticultor', 'Velejador', 'Vereador', 'Vinhateiro', 'Virologista'
+    ],
+
+    media: [
+        'Vingadores', 'Velozes e Furiosos', 'V de Vingança', 'Vikings', 'Violetta', 'Veronica Mars', 'Velho Chico', 'Verdade ou Desafio', 'Vidas Secas', 'Valente'
+    ],
+
+    "brands": [
+        'Volkswagen', 'Visa', 'Vivo', 'Valentino', 'Vans', 'Victoria’s Secret', 'Vichy', 'Vodafone', 'Varta', 'Volvo'
+    ],
+
+    "plants": [
+        'Vanila', 'Violeta', 'Veludo-branco', 'Vitória-régia', 'Verônica', 'Vassourinha-de-botão', 'Verdolaga', 'Vesicária', 'Vinha', 'Visco'
+    ],
+
+    fruits: [
+        'Veludo', 'Vagem', 'Vinhático', 'Vavá', 'Vassourinha', 'Velame', 'Valsa', 'Verdejo', 'Verdete', 'Vincetoxicum'
+    ]
       },
+  
       'W': {
-names: ['William', 'Walter', 'Wendy', 'Wilson', 'Wesley', 'Willian', 'Winona', 'Wagner', 'Wally'],
-places: ['Washington', 'Wales', 'Winnipeg', 'Wuhan', 'Wellington', 'Wilmington'],
-countries: ['Wales'],
-animals: ['Wallaby', 'Weasel', 'Wolverine'],
-objects: ['Wi-Fi', 'Walkie-talkie', 'Windsurf', 'Waffle', 'Wig'],
-colors: ['White', 'Wheat', 'Wine'],
-elements: ['Wolframio'],
-professions: ['Web Designer', 'Woodworker'],
-media: ['Westworld', 'WandaVision', 'The Walking Dead'],
-brands: ['Walmart', 'Wolverine', 'Whirlpool'],
-plants: ['Wisteria'],
-verbs: ['Wander', 'Win', 'Whisper'],
-adjectives: ['Wild', 'Wicked', 'Weak'],
-emotions: ['Wonder', 'Worry'],
-continents: ['Antártida'],
-fruits: ['Watermelon']
+    names: [
+        'Wagner', 'Wellington', 'Washington', 'Wesley', 'Wilian', 'Walter', 'Wallace', 'Wendel', 'Wanda', 'Whitney',
+        'Wílson', 'Wilma', 'Willy', 'Wanda', 'Walfredo', 'Wanderson', 'Winona', 'Waldir', 'Wayne', 'Warren'
+    ],
+
+    places: [
+        'Washington', 'Wellington', 'Winnipeg', 'Windsor', 'Warsaw', 'Wuhan', 'Wenzhou', 'Wadi Musa', 'Waco', 'Wollongong',
+        'Würzburg', 'Woking', 'Westport', 'Westminster', 'Wiesbaden', 'Whistler', 'Wodonga', 'West Palm Beach', 'Wagga Wagga', 'Wigan'
+    ],
+
+    countries: [
+        'Wallis e Futuna'
+    ],
+
+    animals: [
+        'Wapiti', 'Wombat', 'Wallaby', 'Wolverine', 'Weta', 'Woodpecker', 'White Shark', 'Wolf', 'Whale', 'Walrus'
+    ],
+
+    objects: [
+        'Walkie-talkie', 'Webcam', 'Waffle', 'Wardrobe', 'Watch', 'Wheel', 'Window', 'Wallet', 'Wine glass', 'Wrench',
+        'Whiteboard', 'Windscreen', 'Windmill', 'Whisk', 'Wig', 'Wetsuit', 'Writing pad', 'Wok', 'Wi-Fi router', 'Wax'
+    ],
+
+    colors: ['Wine', 'White', 'Wheat', 'Walnut', 'Warm gray'],
+
+    elements: ['Water', 'Wurtzite', 'Whewellite'],
+
+    professions: ['Web Designer', 'Web Developer', 'Writer', 'Welder', 'Watchmaker', 'Wedding Planner', 'Woodworker', 'Warehouse Worker', 'Winemaker', 'Waiter'],
+
+    media: [
+        'Wonder Woman', 'Westworld', 'Wolverine', 'Whiplash', 'Warrior', 'Walker Texas Ranger', 'White Collar', 'WALL-E', 'Wayne’s World', 'Watchmen'
+    ],
+
+    brands: [
+        'Walmart', 'WhatsApp', 'Warner Bros', 'Western Digital', 'Wells Fargo', 'Wilson', 'Weber', 'Wacom', 'Wrangler', 'Whirlpool'
+    ],
+
+    plants: [
+        'Willow', 'Watercress', 'Wintergreen', 'Wheatgrass', 'White Oak', 'Wattle', 'Wolfberry', 'Wisteria', 'Wild Rice', 'Wild Mint'
+    ],
+
+    fruits: [
+        'Watermelon', 'Wax Apple', 'White Sapote', 'Wild Cherry', 'Wolfberry'
+    ]
       },
+  
       'X': {
-names: ['Xuxa', 'Xander', 'Ximena', 'Xavier', 'Xena'],
-places: ['Xangai', 'Xai-Xai', 'Xerém', 'Xanxerê'],
-countries: ['Xangai'],
-animals: ['Xaxim', 'Xerelete', 'Xodó'],
-objects: ['Xadrez', 'Xarope', 'Xícara', 'Xampu', 'Xerox'],
-colors: ['Xadrez'],
-elements: ['Xenônio'],
-professions: ['Xerife'],
-media: ['X-Men', 'X-Files'],
-brands: ['Xiaomi'],
-plants: ['Xaxim'],
-verbs: ['Xingar', 'Xerocar'],
-adjectives: ['Xarope', 'Xadrez'],
-emotions: ['Xoxo'],
-continents: ['Ásia'],
-fruits: ['Ximena']
+    names: [
+        'Xande', 'Xavier', 'Ximena', 'Xuxa', 'Xisto', 'Xênia', 'Xerxes', 'Xolani', 'Xênofonte', 'Xenilda',
+        'Xandro', 'Xaviera', 'Xever', 'Xarles', 'Xandinho', 'Xenira', 'Xistofer', 'Xiomara', 'Xelita', 'Xeno'
+    ],
+
+    places: [
+        'Xai-Xai', 'Xangai', 'Xanxerê', 'Xambrê', 'Xexéu', 'Xambioá', 'Xinguara', 'Xochimilco', 'Xirivella', 'Xinglong',
+        'Xankandi', 'Xalisco', 'Xalapa', 'Xinyi', 'Xilitla', 'Xuzhou', 'Xichang', 'Xiantao', 'Xinghua', 'Xishuangbanna'
+    ],
+
+    countries: [
+        'Nenhum país começa com a letra X'
+    ],
+
+    animals: [
+        'Xaréu', 'Xexéu', 'Xerus', 'Xoloitzcuintli', 'Xereta', 'Xestus', 'Xiquexique', 'Xenopus', 'Xanthareel', 'Xenarthra'
+    ],
+
+    objects: [
+        'Xadrez', 'Xampu', 'Xícara', 'Xilofone', 'Xale', 'Xampô', 'Xerox', 'Xisto', 'Xilogravura', 'Xarope',
+        'X-Box', 'Xadrez eletrônico', 'Xerografia', 'Xiloteca', 'X-acto', 'Xenônio', 'Xampanheira', 'Xenômero', 'Xerografia', 'Xereta'
+    ],
+
+    colors: ['Xanadu', 'Xisto', 'Xangai Red'],
+
+    elements: [
+        'Xenônio', 'Xantato', 'Xilema', 'Xisto betuminoso'
+    ],
+
+    "professions": [
+        'Xilógrafo', 'Xamã', 'Xenobiologista', 'Xerife', 'Xenólogo', 'Xadrezista', 'Xilógrafo artístico', 'Xilofonista', 'Xenotécnico', 'Xarqueador'
+    ],
+
+    media: [
+        'X-Men', 'X-Files', 'Xuxa Park', 'Xena: A Princesa Guerreira', 'Xingu', 'Xadrez Mortal', 'X-Force', 'X-Treme Sports', 'X-Factor', 'Xibalba'
+    ],
+
+    brands: [
+        'Xiaomi', 'Xerox', 'Xfinity', 'Xbox', 'X-Large', 'Xerion', 'Xoom', 'XFX', 'Xetum', 'Xenon'
+    ],
+
+    plants: [
+        'Xerófita', 'Xique-xique', 'Xanthosoma', 'Ximenia', 'Xanthorrhoea', 'Xeronema', 'Xerochrysum', 'Xeranthemum', 'Xyris', 'Xanthoceras'
+    ],
+
+    fruits: [
+        'Ximenia', 'Xigua (melancia chinesa)', 'Xarope de bordo (derivado)', 'Xacuti (usado em pratos)', 'Xoconostle (cacto mexicano)'
+    ]
       },
+  
       'Y': {
-names: ['Yasmin', 'Yuri', 'Yara', 'Yvonne', 'Yago', 'Yan', 'Yasmina'],
-places: ['Yokohama', 'Yemen', 'Yalta', 'Yerevan'],
-countries: ['Yémen'],
-animals: ['Yak', 'Yeti'],
-objects: ['Yogurte', 'Yin-yang'],
-colors: ['Yellow', 'Yam'],
-elements: ['Yttrium'],
-professions: ['Youtuber'],
-media: ['Yu-Gi-Oh!', 'Yellowstone'],
-brands: ['Yamaha', 'Yahoo', 'Yves Saint Laurent'],
-plants: ['Yam'],
-verbs: ['Yogar'],
-adjectives: ['Yogurtoso'],
-emotions: ['Yin'],
-continents: ['África'],
-fruits: ['Yunnan']
-      },      
+    names: [
+        'Yago', 'Yasmin', 'Yara', 'Yuri', 'Yohan', 'Yvonne', 'Yvette', 'Yasser', 'Yann', 'Yasmim',
+        'Yelena', 'Yoana', 'Yolanda', 'Yusuf', 'Yvette', 'Yanis', 'Yolanda', 'Yanis', 'Yone', 'Ygor'
+    ],
+
+    places: [
+        'Yucatán', 'Yokohama', 'Yangon', 'Yamoussoukro', 'Yalta', 'Yichang', 'Yibin', 'Yaoundé', 'Yaroslavl', 'Yellowknife',
+        'Yogyakarta', 'Yichun', 'Yumen', 'Yokosuka', 'Yamagata', 'Yonkers', 'Yancheng', 'Yeosu', 'Yuzhno-Sakhalinsk', 'Yulin'
+    ],
+
+    countries: ['Iémen'],
+
+    animals: ['Yak', 'Yorkshire Terrier', 'Yeti Crab', 'Yellowhammer', 'Yellowjacket', 'Yabby', 'Yellowfin Tuna', 'Yellow Mongoose', 'Yarkand Hare', 'Yellowtail'],
+
+    objects: ['Yo-yo', 'Yate', 'Yin-yang', 'Yashmak', 'Yellow Pad', 'Yoga Mat', 'Yardstick', 'Yellow Tape', 'Yeti Cup', 'Yule Log'],
+
+    colors: ['Yellow', 'Yale Blue', 'Yellow-Green'],
+
+    elements: ['Yttrium', 'Ytterbium'],
+
+    professions: [
+        'Youtuber', 'Yoga Instructor', 'Yard Worker', 'Youth Counselor', 'Yarn Spinner', 'Yard Engineer', 'Yogurt Maker', 'Yard Supervisor', 'Youth Mentor', 'Yeast Scientist'
+    ],
+
+    media: [
+        'Yellowstone', 'Yugioh', 'Yakuza', 'Young Sheldon', 'You', 'Yamada Tarou Monogatari', 'Yes Man', 'Your Name', 'Young Justice', 'Yogi Bear'
+    ],
+
+    brands: [
+        'Yahoo', 'Yamaha', 'Yves Saint Laurent', 'Yakult', 'YouTube', 'Yokohama', 'YSL Beauty', 'Yeti', 'Yeo’s', 'Yellow Tail'
+    ],
+
+    plants: [
+        'Ylang-Ylang', 'Yucca', 'Yellow Bell', 'Yellowwood', 'Yerba Mate', 'Yew Tree', 'Yellow Archangel', 'Yellow Buckeye', 'Yellow Poplar', 'Yam Bean'
+    ],
+
+    fruits: [
+        'Yuzu', 'Yellow Passion Fruit', 'Yellow Plum', 'Yangmei', 'Yellow Cherry'
+    ]
+      }, 
+            
       'Z': {
-names: ['Zé', 'Zilda', 'Zico', 'Zoraide', 'Zélia', 'Zayn', 'Zita'],
-places: ['Zagreb', 'Zurique', 'Zambézia', 'Zaire', 'Zanzibar', 'Zhoukou'],
-countries: ['Zâmbia', 'Zimbábue'],
-animals: ['Zebra', 'Zorrilho', 'Zângão', 'Zebu'],
-objects: ['Zíper', 'Zaga', 'Zoom', 'Zap', 'Zorro', 'Zol', 'Zumba'],
-colors: ['Zinabre', 'Zaffre'],
-elements: ['Zinco', 'Zircônio'],
-professions: ['Zelador', 'Zoólogo', 'Zootecnista'],
-media: ['Zorro', 'Zootopia'],
-brands: ['Zara', 'Zippo', 'Zoom'],
-plants: ['Zínia', 'Zambujeiro'],
-verbs: ['Zelar', 'Zunir', 'Zurrar'],
-adjectives: ['Zeloso', 'Zangado', 'Zootécnico'],
-emotions: ['Zelo'],
-continents: ['África'],
-fruits: ['Ziziphus']
+    names: [
+        'Zacarias', 'Zélia', 'Zilda', 'Zuleica', 'Zara', 'Zé', 'Zeno', 'Zoraya', 'Zilmar', 'Zamir',
+        'Zenaide', 'Zora', 'Zac', 'Zelinda', 'Zena', 'Zilma', 'Zamir', 'Zefinha', 'Zayra', 'Zeferino'
+    ],
+
+    places: [
+        'Zambezia', 'Zanzibar', 'Zurique', 'Zacatecas', 'Zaragoza', 'Zhengzhou', 'Zibo', 'Zlin', 'Zanjan', 'Zwickau',
+        'Zhaoqing', 'Zhuhai', 'Zabol', 'Zaria', 'Zaanstad', 'Zapopan', 'Zossen', 'Zvolen', 'Zaria', 'Zhangjiajie'
+    ],
+
+    countries: [
+        'Zâmbia', 'Zimbábue'
+    ],
+
+    animals: [
+        'Zebra', 'Zebu', 'Zorrilho', 'Zangão', 'Zapata Wren', 'Zebra Finch', 'Zigzag Salamander', 'Zenaida Dove', 'Zorro', 'Zander Fish'
+    ],
+
+    objects: [
+        'Zíper', 'Zabumba', 'Zepelim', 'Zodíaco', 'Zirconita', 'Zunidor', 'Zorra', 'Zigue-zague', 'Zamburra', 'Zagaia'
+    ],
+
+    colors: [
+        'Zaffre', 'Zebra White', 'Zomp'
+    ],
+
+    elements: [
+        'Zinco', 'Zircônio'
+    ],
+
+    professions: [
+        'Zoólogo', 'Zootecnista', 'Zelador', 'Zimbaleiro', 'Zangari', 'Zebrista', 'Zooterapista', 'Zumbista', 'Zimbreiro', 'Zilhador'
+    ],
+
+    media: [
+        'Zorro', 'Zumbilândia', 'Zootopia', 'Z Nation', 'Zig & Sharko', 'Zenon', 'Zatch Bell', 'Zero Dark Thirty', 'Zoey 101', 'Zapped'
+    ],
+
+    brands: [
+        'Zara', 'Zenfone', 'Ziploc', 'Zoom', 'ZTE', 'Zanussi', 'Zippo', 'Zildjian', 'Zymox', 'Zeiss'
+    ],
+
+    plants: [
+        'Zimbro', 'Zamioculca', 'Zantedeschia', 'Ziziphus', 'Zephyranthes', 'Zedoária', 'Zingiber', 'Zostera', 'Zornia', 'Zexmenia'
+    ],
+
+    fruits: [
+        'Zimbro', 'Ziziphus', 'Zitrone (limão em alemão)', 'Zhe Fruit', 'Zestar Apple'
+    ]
       }
-      // ... Add more letters with expanded categories...
     };
   }
 
